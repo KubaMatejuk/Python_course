@@ -1,8 +1,6 @@
 def bmi(masa, wzrost):
     return round(masa/(wzrost*wzrost),2)
 
-print("BMI wynosi: {0}".format(bmi(93,1.76)))
-
 def komentarz(bmi):
     if bmi <16:
         tekst = "wygłodzenie"
@@ -22,4 +20,6 @@ def komentarz(bmi):
         tekst = "III stopień otyłości(otyłość skrajna)"
     return tekst
 
-print("Twoje BMI oznacza: {0}".format(komentarz(bmi(90,1.76))))
+waga=85
+wzrost_w_metrach = 1.76
+print("Twoje BMI wynosi {0} i oznacza: {1}".format(bmi(waga,wzrost_w_metrach),komentarz(bmi(waga,wzrost_w_metrach))))
