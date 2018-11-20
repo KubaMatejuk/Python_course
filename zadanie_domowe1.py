@@ -20,6 +20,6 @@ def komentarz(bmi):
         tekst = "III stopień otyłości(otyłość skrajna)"
     return tekst
 
-waga=70
-wzrost_w_metrach = 1.67
+waga=87
+wzrost_w_metrach = 1.8
 print("Twoje BMI wynosi {0} i oznacza: {1}".format(bmi(waga,wzrost_w_metrach),komentarz(bmi(waga,wzrost_w_metrach))))
