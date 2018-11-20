@@ -1,8 +1,8 @@
 def suma_dzielnikow(n):
-    suma=0
+    suma=[]
     for i in range(1,n):
         if n%i==0:
-            suma=suma+i
+            suma.append(i)
     return suma
 
 print(suma_dzielnikow(6))
