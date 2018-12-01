@@ -2,44 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a134a942-17e3-4e2d-8452-a814a0fd694c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Python_course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie2/Zadanie1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie2/Zadanie2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie2/komputer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie2/pakiecik/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie2/pakiecik/foo_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie2/palindromy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie2/przestepne.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie2/rozmienianie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie2/test_foo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie2/zadanie3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie2/zadanie4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie2/zadanie5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie2/zadanie_domowe1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie2/zadanie_domowe2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie2/zadanie_domowe2_z_zajec_interfejs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie3/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie3/vat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie3/vit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie3/zadanie1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie3/zadanie2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie3/zadanie3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadanie1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spotkanie1/zadanie1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadanie2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spotkanie1/zadanie2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadanie3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spotkanie1/zadanie3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadanie4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spotkanie1/zadanie4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadanie5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spotkanie1/zadanie5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadanie6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spotkanie1/zadanie6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadanie7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spotkanie1/zadanie7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadanie_domowe1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spotkanie1/zadanie_domowe1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadanie_domowe2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spotkanie1/zadanie_domowe2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_course.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -74,8 +39,8 @@
       <file leaf-file-name="zadanie3.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Spotkanie3/zadanie3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="34">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -195,8 +160,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lesson_second" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -222,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.zadanie3">
+  <component name="RunManager" selected="Python.zadanie3 (1)">
     <configuration name="test_foo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Lesson_second" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -254,6 +219,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\Kuba\PycharmProjects\Lesson_first\Spotkanie3\zadanie2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="zadanie3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spotkanie3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spotkanie3/zadanie3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -362,9 +345,11 @@
       <item itemvalue="Python.test_foo" />
       <item itemvalue="Python.zadanie2" />
       <item itemvalue="Python.zadanie3" />
+      <item itemvalue="Python.zadanie3 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.zadanie3 (1)" />
         <item itemvalue="Python.zadanie3" />
         <item itemvalue="Python.zadanie2" />
         <item itemvalue="Python.test_foo" />
@@ -487,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543309838855</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Change of directory structure">
+      <created>1543701246416</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1543701246416</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -501,7 +493,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3282123" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3980447" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3980447" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -541,7 +533,8 @@
     <MESSAGE value="Zadanie_domowe2 v4 - fix bug" />
     <MESSAGE value="Zadanie_domowe2 v4 - last version" />
     <MESSAGE value="Zadania domowe z omówienia z zajęć" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadania domowe z omówienia z zajęć" />
+    <MESSAGE value="Change of directory structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change of directory structure" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -884,8 +877,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Spotkanie3/zadanie3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>
