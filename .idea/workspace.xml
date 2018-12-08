@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a134a942-17e3-4e2d-8452-a814a0fd694c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Spotkanie4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie4/bmi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spotkanie4/osobowe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/wyrazenie.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,90 +15,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="zadanie_dodatkowe.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spotkanie3/zadanie_dodatkowe.py">
+      <file leaf-file-name="wyrazenie.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/wyrazenie.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+            <state relative-caret-position="191">
+              <caret line="50" column="27" lean-forward="true" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zadanie1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zadanie2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zadanie3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zadanie4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zadanie5.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zadanie6.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="25" selection-end-line="7" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zadanie7.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie7.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="72" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zadanie_domowe1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie_domowe1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bmi.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Spotkanie4/bmi.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -140,6 +62,7 @@
         <option value="$PROJECT_DIR$/../Lesson_third/zadanie2.py" />
         <option value="$PROJECT_DIR$/../Lesson_third/zadanie3.py" />
         <option value="$PROJECT_DIR$/Spotkanie3/zadanie_dodatkowe.py" />
+        <option value="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/wyrazenie.py" />
       </list>
     </option>
   </component>
@@ -172,6 +95,11 @@
               <item name="Python_course" type="462c0819:PsiDirectoryNode" />
               <item name="Spotkanie4" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_course" type="462c0819:PsiDirectoryNode" />
+              <item name="Zadanie_domowe_po_spotkaniu_4" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -180,20 +108,20 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zajecia/wyrazenia.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Kuba\PycharmProjects\Python_course\Spotkanie4" />
-      <recent name="C:\Users\Kuba\PycharmProjects\Lesson_third" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kuba\PycharmProjects\Python_course" />
       <recent name="C:\Users\Kuba\PycharmProjects\Lesson_first\Spotkanie3" />
       <recent name="C:\Users\Kuba\PycharmProjects\Lesson_first\Spotkanie2" />
       <recent name="C:\Users\Kuba\PycharmProjects\Lesson_first\Spotkanie1" />
       <recent name="C:\Users\Kuba\PycharmProjects\Lesson_second" />
-      <recent name="C:\Users\Kuba\PycharmProjects\Lesson_first" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kuba\PycharmProjects\Python_course\Spotkanie4" />
+      <recent name="C:\Users\Kuba\PycharmProjects\Lesson_third" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -208,20 +136,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.zadanie_dodatkowe">
-    <configuration name="test_foo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Lesson_second" />
+  <component name="RunManager" selected="Python.wyrazenie">
+    <configuration name="wyrazenie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Lesson_second" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Kuba\PycharmProjects\Lesson_first\Spotkanie2\test_foo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/wyrazenie.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -381,19 +309,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python.test_foo" />
       <item itemvalue="Python.zadanie2" />
       <item itemvalue="Python.zadanie3" />
       <item itemvalue="Python.zadanie3 (1)" />
       <item itemvalue="Python.zadanie_dodatkowe" />
+      <item itemvalue="Python.wyrazenie" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.wyrazenie" />
         <item itemvalue="Python.zadanie_dodatkowe" />
         <item itemvalue="Python.zadanie3 (1)" />
         <item itemvalue="Python.zadanie3" />
         <item itemvalue="Python.zadanie2" />
-        <item itemvalue="Python.test_foo" />
       </list>
     </recent_temporary>
   </component>
@@ -541,22 +469,30 @@
       <option name="project" value="LOCAL" />
       <updated>1543705516241</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Zajecia 4">
+      <created>1543917829710</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1543917829710</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21229404" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21229404" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29608938" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.30307263" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3282123" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29608938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3980447" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3980447" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -599,7 +535,8 @@
     <MESSAGE value="Change of directory structure2" />
     <MESSAGE value="Zadanie dodatkowe" />
     <MESSAGE value="Zadanie dodatkowe v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadanie dodatkowe v2" />
+    <MESSAGE value="Zajecia 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zajecia 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -619,37 +556,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Spotkanie3/zadanie_dodatkowe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie3/zadanie1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie3/zadanie2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie3/vat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Spotkanie2/test_foo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -968,6 +874,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie4/bmi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie_domowe1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -975,8 +891,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie4/bmi.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/../zajecia/wyrazenia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-end-line="42" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/1585511917/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="815" column="8" selection-start-line="815" selection-start-column="8" selection-end-line="815" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/wyrazenie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="50" column="27" lean-forward="true" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
