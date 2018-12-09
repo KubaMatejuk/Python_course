@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a134a942-17e3-4e2d-8452-a814a0fd694c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/wyrazenie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/kursy_akcji.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/raport.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +15,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="wyrazenie.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="statystyka.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/statystyka.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="78" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kursy_akcji.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/kursy_akcji.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="309" selection-start-line="309" selection-end-line="309" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zadanie3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spotkanie3/zadanie3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wyrazenie.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/wyrazenie.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="191">
@@ -63,6 +99,8 @@
         <option value="$PROJECT_DIR$/../Lesson_third/zadanie3.py" />
         <option value="$PROJECT_DIR$/Spotkanie3/zadanie_dodatkowe.py" />
         <option value="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/wyrazenie.py" />
+        <option value="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/statystyka.py" />
+        <option value="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/kursy_akcji.py" />
       </list>
     </option>
   </component>
@@ -89,6 +127,11 @@
               <item name="Python_course" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_course" type="462c0819:PsiDirectoryNode" />
               <item name="Spotkanie1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_course" type="462c0819:PsiDirectoryNode" />
+              <item name="Spotkanie3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_course" type="b2602c69:ProjectViewProjectNode" />
@@ -136,7 +179,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.wyrazenie">
+  <component name="RunManager" selected="Python.kursy_akcji">
+    <configuration name="kursy_akcji" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/kursy_akcji.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="statystyka" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/statystyka.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="wyrazenie" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,24 +234,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="zadanie2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Lesson_third" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Lesson_third" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Kuba\PycharmProjects\Lesson_first\Spotkanie3\zadanie2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="zadanie3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,24 +247,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spotkanie3/zadanie3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="zadanie3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Lesson_third" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Lesson_third" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Kuba\PycharmProjects\Lesson_first\Spotkanie3\zadanie3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,19 +352,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python.zadanie2" />
-      <item itemvalue="Python.zadanie3" />
       <item itemvalue="Python.zadanie3 (1)" />
       <item itemvalue="Python.zadanie_dodatkowe" />
       <item itemvalue="Python.wyrazenie" />
+      <item itemvalue="Python.statystyka" />
+      <item itemvalue="Python.kursy_akcji" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.kursy_akcji" />
+        <item itemvalue="Python.statystyka" />
         <item itemvalue="Python.wyrazenie" />
         <item itemvalue="Python.zadanie_dodatkowe" />
         <item itemvalue="Python.zadanie3 (1)" />
-        <item itemvalue="Python.zadanie3" />
-        <item itemvalue="Python.zadanie2" />
       </list>
     </recent_temporary>
   </component>
@@ -476,7 +519,21 @@
       <option name="project" value="LOCAL" />
       <updated>1543917829710</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Zadanie 3 - Spotkanie 4">
+      <created>1544310754564</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1544310754564</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Statystyka - bez porównywania">
+      <created>1544312088604</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1544312088604</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -536,7 +593,9 @@
     <MESSAGE value="Zadanie dodatkowe" />
     <MESSAGE value="Zadanie dodatkowe v2" />
     <MESSAGE value="Zajecia 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zajecia 4" />
+    <MESSAGE value="Zadanie 3 - Spotkanie 4" />
+    <MESSAGE value="Statystyka - bez porównywania" />
+    <option name="LAST_COMMIT_MESSAGE" value="Statystyka - bez porównywania" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -551,32 +610,16 @@
           <line>11</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/kursy_akcji.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Spotkanie2/test_foo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie3/zadanie3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -794,30 +837,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie3/zadanie1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie3/zadanie2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie3/zadanie3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Spotkanie3/zadanie_dodatkowe.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -905,10 +924,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie3/zadanie1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie3/zadanie2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/wyrazenie.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
           <caret line="50" column="27" lean-forward="true" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/statystyka.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="78" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie3/zadanie3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/kursy_akcji.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
