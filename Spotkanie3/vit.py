@@ -1,4 +1,9 @@
+class NotListError(Exception):
+    pass
+
 def vat_faktura(lista):
+    if type(lista) != type([]):
+        raise NotListError
     suma=0
     for element in lista:
         suma=suma+element
@@ -6,6 +11,7 @@ def vat_faktura(lista):
     return vat
 
 zakupy=[0.2, 0.5, 4.59, 6]
+#print(vat_faktura("Czekolada"))
 #print(vat_faktura(zakupy))
 
 def vat_paragon(lista):

@@ -2,9 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a134a942-17e3-4e2d-8452-a814a0fd694c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/kursy_akcji.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/raport.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spotkanie1/test_suma_dzielnikow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spotkanie2/test_czy_pierwsza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spotkanie3/test_vat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spotkanie5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spotkanie5/error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spotkanie5/silnia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spotkanie5/test_silnia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spotkanie5/testowanie_silni.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spotkanie5/wyjatki.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spotkanie1/zadanie6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spotkanie1/zadanie6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spotkanie1/zadanie7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spotkanie1/zadanie7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spotkanie2/Zadanie2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spotkanie2/Zadanie2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spotkanie2/zadanie4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spotkanie2/zadanie4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spotkanie3/vit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spotkanie3/vit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spotkanie4/osobowe.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spotkanie4/osobowe.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,47 +28,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="statystyka.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/statystyka.py">
+      <file leaf-file-name="vit.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spotkanie3/vit.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="78" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+            <state relative-caret-position="139">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kursy_akcji.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/kursy_akcji.py">
+      <file leaf-file-name="test_vat.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Spotkanie3/test_vat.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="309" selection-start-line="309" selection-end-line="309" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zadanie3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spotkanie3/zadanie3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wyrazenie.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/wyrazenie.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="50" column="27" lean-forward="true" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+            <state relative-caret-position="136">
+              <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,8 +88,21 @@
         <option value="$PROJECT_DIR$/../Lesson_third/zadanie3.py" />
         <option value="$PROJECT_DIR$/Spotkanie3/zadanie_dodatkowe.py" />
         <option value="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/wyrazenie.py" />
-        <option value="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/statystyka.py" />
         <option value="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/kursy_akcji.py" />
+        <option value="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/statystyka.py" />
+        <option value="$PROJECT_DIR$/Spotkanie5/wyjatki.py" />
+        <option value="$PROJECT_DIR$/Spotkanie1/zadanie7.py" />
+        <option value="$PROJECT_DIR$/Spotkanie2/Zadanie2.py" />
+        <option value="$PROJECT_DIR$/Spotkanie4/osobowe.py" />
+        <option value="$PROJECT_DIR$/Spotkanie5/silnia.py" />
+        <option value="$PROJECT_DIR$/Spotkanie5/testowanie_silni.py" />
+        <option value="$PROJECT_DIR$/Spotkanie5/test_silnia.py" />
+        <option value="$PROJECT_DIR$/Spotkanie1/test_suma_dzielnikow.py" />
+        <option value="$PROJECT_DIR$/Spotkanie1/zadanie6.py" />
+        <option value="$PROJECT_DIR$/Spotkanie2/test_czy_pierwsza.py" />
+        <option value="$PROJECT_DIR$/Spotkanie2/zadanie4.py" />
+        <option value="$PROJECT_DIR$/Spotkanie3/vit.py" />
+        <option value="$PROJECT_DIR$/Spotkanie3/test_vat.py" />
       </list>
     </option>
   </component>
@@ -116,17 +118,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Python_course" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_course" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_course" type="462c0819:PsiDirectoryNode" />
-              <item name="Spotkanie1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_course" type="b2602c69:ProjectViewProjectNode" />
@@ -141,13 +139,12 @@
             <path>
               <item name="Python_course" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_course" type="462c0819:PsiDirectoryNode" />
-              <item name="Zadanie_domowe_po_spotkaniu_4" type="462c0819:PsiDirectoryNode" />
+              <item name="Spotkanie5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,97 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.kursy_akcji">
-    <configuration name="kursy_akcji" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_course" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/kursy_akcji.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="statystyka" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_course" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/statystyka.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="wyrazenie" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_course" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/wyrazenie.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="zadanie3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_course" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spotkanie3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spotkanie3/zadanie3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="zadanie_dodatkowe" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_course" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spotkanie3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spotkanie3/zadanie_dodatkowe.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in test_vat.py">
     <configuration default="true" type="Tox" factoryName="Tox">
       <module name="Lesson_second" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -279,6 +186,71 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+    </configuration>
+    <configuration name="Unittests in test_czy_pierwsza.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spotkanie2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Spotkanie2/test_czy_pierwsza.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in test_silnia.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spotkanie5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Spotkanie5/test_silnia.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in test_suma_dzielnikow.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spotkanie1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Spotkanie1/test_suma_dzielnikow.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in test_vat.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spotkanie3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Spotkanie3/test_vat.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in testowanie_silni.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spotkanie5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Spotkanie5/testowanie_silni.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
       <module name="Lesson_second" />
@@ -352,19 +324,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python.zadanie3 (1)" />
-      <item itemvalue="Python.zadanie_dodatkowe" />
-      <item itemvalue="Python.wyrazenie" />
-      <item itemvalue="Python.statystyka" />
-      <item itemvalue="Python.kursy_akcji" />
+      <item itemvalue="Python tests.Unittests in testowanie_silni.py" />
+      <item itemvalue="Python tests.Unittests in test_silnia.py" />
+      <item itemvalue="Python tests.Unittests in test_suma_dzielnikow.py" />
+      <item itemvalue="Python tests.Unittests in test_czy_pierwsza.py" />
+      <item itemvalue="Python tests.Unittests in test_vat.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.kursy_akcji" />
-        <item itemvalue="Python.statystyka" />
-        <item itemvalue="Python.wyrazenie" />
-        <item itemvalue="Python.zadanie_dodatkowe" />
-        <item itemvalue="Python.zadanie3 (1)" />
+        <item itemvalue="Python tests.Unittests in test_vat.py" />
+        <item itemvalue="Python tests.Unittests in test_czy_pierwsza.py" />
+        <item itemvalue="Python tests.Unittests in test_suma_dzielnikow.py" />
+        <item itemvalue="Python tests.Unittests in test_silnia.py" />
+        <item itemvalue="Python tests.Unittests in testowanie_silni.py" />
       </list>
     </recent_temporary>
   </component>
@@ -533,8 +505,54 @@
       <option name="project" value="LOCAL" />
       <updated>1544312088604</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Kursy akcji - z pliku pobranego">
+      <created>1544314820897</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1544314820897</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Statystyka - dodanie funkcji porównującej">
+      <created>1544365686481</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1544365686481</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_suma_dzielnikow_py - 2018.12.11 at 10h 31m 10s.xml">
+      <configuration name="Unittests in test_suma_dzielnikow.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_suma_dzielnikow_py - 2018.12.11 at 10h 31m 40s.xml">
+      <configuration name="Unittests in test_suma_dzielnikow.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_suma_dzielnikow_py - 2018.12.11 at 10h 32m 11s.xml">
+      <configuration name="Unittests in test_suma_dzielnikow.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_suma_dzielnikow_py - 2018.12.11 at 10h 33m 09s.xml">
+      <configuration name="Unittests in test_suma_dzielnikow.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_suma_dzielnikow_py - 2018.12.11 at 10h 33m 33s.xml">
+      <configuration name="Unittests in test_suma_dzielnikow.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_czy_pierwsza_py - 2018.12.11 at 10h 35m 37s.xml">
+      <configuration name="Unittests in test_czy_pierwsza.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_czy_pierwsza_py - 2018.12.11 at 10h 36m 45s.xml">
+      <configuration name="Unittests in test_czy_pierwsza.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_vat_py - 2018.12.11 at 10h 43m 06s.xml">
+      <configuration name="Unittests in test_vat.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_vat_py - 2018.12.11 at 10h 43m 50s.xml">
+      <configuration name="Unittests in test_vat.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_vat_py - 2018.12.11 at 10h 43m 59s.xml">
+      <configuration name="Unittests in test_vat.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -543,13 +561,13 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21229404" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38268158" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.30307263" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3282123" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29608938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3980447" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3980447" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -595,7 +613,9 @@
     <MESSAGE value="Zajecia 4" />
     <MESSAGE value="Zadanie 3 - Spotkanie 4" />
     <MESSAGE value="Statystyka - bez porównywania" />
-    <option name="LAST_COMMIT_MESSAGE" value="Statystyka - bez porównywania" />
+    <MESSAGE value="Kursy akcji - z pliku pobranego" />
+    <MESSAGE value="Statystyka - dodanie funkcji porównującej" />
+    <option name="LAST_COMMIT_MESSAGE" value="Statystyka - dodanie funkcji porównującej" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -610,114 +630,11 @@
           <line>11</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/kursy_akcji.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
       </breakpoints>
       <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="72" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie_domowe1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie_domowe2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="72" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie_domowe2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie_domowe1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -781,13 +698,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/sre_parse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -806,13 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie2/komputer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -844,13 +747,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -876,30 +772,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="72" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spotkanie4/bmi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -943,36 +815,185 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/wyrazenie.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="50" column="27" lean-forward="true" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/statystyka.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="78" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+        <state relative-caret-position="850">
+          <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Spotkanie3/zadanie3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="15" />
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="5236">
           <caret line="309" selection-start-line="309" selection-end-line="309" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/statystyka.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie5/wyjatki.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="124" selection-start-line="4" selection-start-column="124" selection-end-line="4" selection-end-column="124" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie2/komputer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie2/przestepne.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie2/palindromy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Zadanie_domowe_po_spotkaniu_4/kursy_akcji.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie4/bmi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie5/silnia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie5/test_silnia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie2/Zadanie1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie2/test_czy_pierwsza.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie2/zadanie4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie2/zadanie3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie2/Zadanie2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie1/test_suma_dzielnikow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie1/zadanie7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie4/osobowe.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie5/testowanie_silni.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie3/vit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spotkanie3/test_vat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

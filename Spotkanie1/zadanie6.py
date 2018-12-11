@@ -5,4 +5,4 @@ def suma_dzielnikow(n):
             suma.append(i)
     return suma
 
-print(suma_dzielnikow(6))
+#print(suma_dzielnikow(6))

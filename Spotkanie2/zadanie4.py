@@ -12,6 +12,6 @@ def czy_pierwsza(n):
     return False
 
 dane = [2,3,4,5,6,7,8,9,10,11]
-for liczba in dane:
-    print("{0}: {1}".format(liczba,czy_pierwsza(liczba)))
+# for liczba in dane:
+#     print("{0}: {1}".format(liczba,czy_pierwsza(liczba)))
 

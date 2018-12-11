@@ -1,3 +1,6 @@
+class NotStringError(Exception):
+    pass
+
 import bmi
 class Osoba:
 
@@ -6,6 +9,8 @@ class Osoba:
         self.nazwisko = nazwisko
         self.waga = waga
         self.wzrost = wzrost
+        if type(imie) != type("kot"):
+            raise NotStringError
 
     def __str__(self):
         return str(self.__class__.__name__) + ": " + self.imie + " " + self.nazwisko
@@ -45,3 +50,5 @@ k = Kierownik("Anna", "Kowalska", 5000, 100,2)
 print(k.wyplata())
 print(k)
 print(k.bmi())
+
+tester = Osoba(5,"Tester", 55,1.76)
